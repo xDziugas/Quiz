@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="text_welcome">Welcome!</string>
+    <string name="text_enter_name">Please enter your name!</string>
+    <string name="text_start">Start!</string>
+    <string name="text_name">Name</string>
+    <string name="flag_quiz">Flag Quiz</string>
+    <string name="capital_quiz">Capital Quiz</string>
+    <string name="random_quiz">Random Quiz</string>
+    <string name="text_finish">Finish!</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_next_question">Go to the next question</string>
+    <string name="submit">Submit!</string>
+    <string name="default_question">Default question!?</string>
+    <string name="_0_10">0/10</string>
+    <string name="area_quiz">Area Quiz</string>
+    <string name="population_quiz">Population Quiz</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="average">Average</string>
+    <string name="username">Username</string>
+    <string name="your_score_is_9_out_of_10">Your score is 9 out of 10</string>
+    <string name="finish">FINISH!</string>
+    <string name="europe">Europe</string>
+    <string name="asia">Asia</string>
+    <string name="africa">Africa</string>
+    <string name="world">World</string>
+    <string name="fetching_data">Fetching Data...</string>
+
+
+</resources>
